@@ -32,13 +32,19 @@ font-family: 'Roboto', sans-serif; */
 /* buttons-p */
 
 .buttons-p {
-    background-color: #F5F4FA;
+    background-color: #FFFFFF;
     color: black;
+    border: none;
+}
+
+.buttons-p>ul>li {
+    list-style: none;
 }
 
 .button-p:hover {
     background-color: #2196F3;
     color: white;
+    border: none;
 }
 
 
