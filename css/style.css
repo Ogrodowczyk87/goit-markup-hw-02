@@ -1,6 +1,10 @@
 /* font-family: 'Raleway', sans-serif;
 font-family: 'Roboto', sans-serif; */
 
+* {
+    display: inline-block;
+}
+
 
 /* logo-1 */
 
@@ -34,18 +38,46 @@ font-family: 'Roboto', sans-serif; */
 .buttons-p {
     background-color: #FFFFFF;
     color: black;
-    border: none;
+    display: flex;
+    justify-content: center;
 }
 
 .buttons-p>ul>li {
     list-style: none;
 }
 
+.button-p {
+    background-color: #F5F4FA;
+    border: none;
+    border-radius: 4px;
+    display: block;
+}
+
 .button-p:hover {
     background-color: #2196F3;
     color: white;
-    border: none;
 }
 
 
 /* content-p */
+
+.content-p {
+    display: flex;
+}
+
+.img-p {
+    display: block;
+}
+
+.content-p>ul>li>h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.content-p>ul>li>p {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 400;
+}
