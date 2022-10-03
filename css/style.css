@@ -19,7 +19,7 @@ font-family: 'Roboto', sans-serif; */
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
-    line-height: 31px;
+    line-height: 1.1;
     letter-spacing: 0.03em;
     color: #2196F3;
 }
@@ -31,7 +31,7 @@ font-family: 'Roboto', sans-serif; */
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.1;
     letter-spacing: 0.02em;
 }
 
@@ -40,7 +40,7 @@ font-family: 'Roboto', sans-serif; */
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.1;
     letter-spacing: 0.02em;
     color: #2196f3;
 }
@@ -50,7 +50,7 @@ font-family: 'Roboto', sans-serif; */
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.1;
     letter-spacing: 0.02em;
     color: #757575;
 }
@@ -60,7 +60,7 @@ font-family: 'Roboto', sans-serif; */
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.1;
     letter-spacing: 0.02em;
     color: #2196f3;
 }
@@ -73,8 +73,10 @@ font-family: 'Roboto', sans-serif; */
 
 .sc-1>h1 {
     font-family: 'Roboto', sans-serif;
+    font-style: normal;
     font-weight: 900;
     font-size: 44px;
+    line-height: 1.3;
 }
 
 .button-sc-1 {
@@ -89,7 +91,7 @@ font-family: 'Roboto', sans-serif; */
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 1.8;
     letter-spacing: 0.06em;
     color: #FFFFFF;
 }
@@ -104,9 +106,10 @@ font-family: 'Roboto', sans-serif; */
 
 .sc-2-l>li>h3 {
     font-family: 'Roboto', sans-serif;
+    font-style: normal;
     font-weight: 700;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.1;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -116,7 +119,7 @@ font-family: 'Roboto', sans-serif; */
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.7;
     color: #757575;
 }
 
@@ -125,6 +128,7 @@ font-family: 'Roboto', sans-serif; */
 
 .sec-3>h2 {
     font-family: 'Roboto', sans-serif;
+    font-style: normal;
     font-weight: 700;
     font-size: 36px;
     letter-spacing: 0.03em;
@@ -136,18 +140,22 @@ font-family: 'Roboto', sans-serif; */
 
 .sec-4>h2 {
     font-family: 'Roboto', sans-serif;
+    font-style: normal;
     font-weight: 700;
     font-size: 36px;
     letter-spacing: 0.03em;
     color: #212121;
+    line-height: 1.1;
 }
 
 .sec-4-l>li>h3 {
     font-family: 'Roboto', sans-serif;
+    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     letter-spacing: 0.03em;
     color: #212121;
+    line-height: 1.1;
 }
 
 .sec-4-l>li>p {
@@ -157,6 +165,7 @@ font-family: 'Roboto', sans-serif; */
     font-size: 16px;
     letter-spacing: 0.03em;
     color: #757575;
+    line-height: 1.1;
 }
 
 
@@ -171,7 +180,7 @@ font-family: 'Roboto', sans-serif; */
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
-    line-height: 31px;
+    line-height: 1.1;
     letter-spacing: 0.03em;
     color: #2196F3;
 }
@@ -183,6 +192,7 @@ font-family: 'Roboto', sans-serif; */
     font-size: 14px;
     letter-spacing: 0.03em;
     color: black;
+    line-height: 1.7;
     /* na razie dalem kolor czarny bo nie widac napisu 
     na bialym tle a nie chce tootera ustawia bo jak 
     zaczne znow wszystko popierdziele :) domyslny kolor bialy */
@@ -204,6 +214,7 @@ font-family: 'Roboto', sans-serif; */
     font-size: 14px;
     letter-spacing: 0.02em;
     color: #2196f3;
+    line-height: 1.7;
 }
 
 
@@ -212,12 +223,12 @@ font-family: 'Roboto', sans-serif; */
 
 /* buttons-p */
 
-.buttons-b {
+.buttons-p {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
-    line-height: 26px;
+    line-height: 1.6;
     border-radius: 4px;
 }
 
@@ -245,11 +256,12 @@ font-family: 'Roboto', sans-serif; */
 
 .content-p-l>li>h3 {
     font-family: 'Roboto', sans-serif;
+    font-style: normal;
     font-weight: 700;
     font-size: 18px;
     letter-spacing: 0.06em;
     color: #212121;
-    line-height: 36px;
+    line-height: 2;
 }
 
 .content-p-l>li>p {
@@ -259,5 +271,5 @@ font-family: 'Roboto', sans-serif; */
     font-size: 16px;
     letter-spacing: 0.03em;
     color: #757575;
-    line-height: 30px;
+    line-height: 1.8;
 }
