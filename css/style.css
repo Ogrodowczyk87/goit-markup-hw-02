@@ -27,7 +27,7 @@ font-family: 'Roboto', sans-serif; */
 .nav>ul>li>a {
     text-decoration: none;
     color: #212121;
-    ffont-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -248,7 +248,25 @@ font-family: 'Roboto', sans-serif; */
 }
 
 
-/* cntent-p */
+/* content-p */
+
+.content-p-l>li>h3 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 0.06em;
+    color: #212121;
+}
+
+.content-p-l>li>p {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
 
 
 /* content-p */
