@@ -5,31 +5,24 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap" rel="stylesheet">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
     <title>Studio</title>
-    <link rel="stylesheet" href="./css/style.css">
 </head>
 
 <body>
 
-    <header class="header">
+    <header>
 
-        <div class="logo-1">
-            <a href="./index.html">WebStudio</a>
+        <div class="logo">
+            <a href="#">WebStudio</a>
         </div>
-        <nav class="nav">
+        <nav>
             <ul>
                 <li><a href="#">Agencja</a></li>
-                <li><a href="./portfolio.html">Portfolio</a></li>
+                <li><a href="#">Portfolio</a></li>
                 <li><a href="#">Kontakt</a></li>
             </ul>
         </nav>
-        <ul class="nav-c">
+        <ul>
             <li>
                 <a href="mailto:info@devstudio.com">info@devstudio.com</a>
             </li>
@@ -37,9 +30,10 @@
                 <a href="tel:+48111111111">+48 111 111 111</a>
             </li>
         </ul>
+
     </header>
 
-    <section class="buttons-po">
+    <section class="buttons-p">
         <ul>
             <li><button class="button-p" type="button">Wszystkie</button></li>
             <li><button class="button-p" type="button">Strony</button></li>
@@ -49,7 +43,7 @@
         </ul>
     </section>
     <section class="content-p">
-        <ul class="ul-p">
+        <ul>
             <li>
                 <img class="img-p" src="./images/p1.jpg" alt="laptop" width="370" height="294">
                 <h3>Lorem, ipsum dolor.</h3>
@@ -98,20 +92,21 @@
         </ul>
     </section>
 
-    <footer class="footer">
-        <address class="address">
+
+    <footer>
         <div class="logo-2 ">
             <a href=" ">WebStudio</a>
         </div>
-        <p>m. Warszawa, Aleje Jerozolimskie 21</p>
-        <ul>
-            <li>
-                <a href="mailto:info@devstudio.com ">info@devstudio.com</a>
-            </li>
-            <li>
-                <a href="tel:+48111111111">+48 111 111 111</a>
-            </li>
-        </ul>
+        <address>
+            <p>m. Warszawa, Aleje Jerozolimskie 21</p>                
+            <ul>
+                <li>
+                    <a href="mailto:info@devstudio.com ">info@devstudio.com</a>
+                </li>
+                <li>
+                    <a href="tel:+48111111111">+48 111 111 111</a>
+                </li>
+            </ul>         
         </address>
     </footer>
 </body>
