@@ -220,8 +220,35 @@ font-family: 'Roboto', sans-serif; */
 
 /* buttons-p */
 
+.buttons-p {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    border-radius: 4px;
+}
 
-/* buttons-p */
+.button-p {
+    width: 93px;
+    height: 38px;
+    background: #F5F4FA;
+    color: #212121;
+    border-radius: 4px;
+    border-style: none;
+}
+
+.button-p:hover {
+    width: 93px;
+    height: 38px;
+    background: #2196F3;
+    color: white;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+}
+
+
+/* cntent-p */
 
 
 /* content-p */
