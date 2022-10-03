@@ -73,7 +73,6 @@ font-family: 'Roboto', sans-serif; */
 
 .sc-1>h1 {
     font-family: 'Roboto', sans-serif;
-    font-style: normal;
     font-weight: 900;
     font-size: 44px;
 }
@@ -105,7 +104,6 @@ font-family: 'Roboto', sans-serif; */
 
 .sc-2-l>li>h3 {
     font-family: 'Roboto', sans-serif;
-    font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 16px;
@@ -127,7 +125,6 @@ font-family: 'Roboto', sans-serif; */
 
 .sec-3>h2 {
     font-family: 'Roboto', sans-serif;
-    font-style: normal;
     font-weight: 700;
     font-size: 36px;
     letter-spacing: 0.03em;
@@ -139,7 +136,6 @@ font-family: 'Roboto', sans-serif; */
 
 .sec-4>h2 {
     font-family: 'Roboto', sans-serif;
-    font-style: normal;
     font-weight: 700;
     font-size: 36px;
     letter-spacing: 0.03em;
@@ -148,7 +144,6 @@ font-family: 'Roboto', sans-serif; */
 
 .sec-4-l>li>h3 {
     font-family: 'Roboto', sans-serif;
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     letter-spacing: 0.03em;
@@ -217,7 +212,7 @@ font-family: 'Roboto', sans-serif; */
 
 /* buttons-p */
 
-.buttons-p {
+.buttons-b {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
@@ -250,7 +245,6 @@ font-family: 'Roboto', sans-serif; */
 
 .content-p-l>li>h3 {
     font-family: 'Roboto', sans-serif;
-    font-style: normal;
     font-weight: 700;
     font-size: 18px;
     letter-spacing: 0.06em;
