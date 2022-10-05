@@ -8,11 +8,28 @@ font-family: 'Roboto', sans-serif; */
 }
 
 
-/* logo-1 */
+/* logo */
+
+.logo-link {
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.1;
+    letter-spacing: 0.03em;
+    color: black;
+}
+
+.logo-link>span {
+    color: #2196F3;
+}
 
 
 /*----------------navigation-------------------- */
 
+
+/* 
 .logo>a {
     font-family: 'Raleway', sans-serif;
     text-decoration: none;
@@ -22,7 +39,7 @@ font-family: 'Roboto', sans-serif; */
     line-height: 1.1;
     letter-spacing: 0.03em;
     color: #2196F3;
-}
+} */
 
 .nav>ul>li>a {
     text-decoration: none;
@@ -173,17 +190,6 @@ font-family: 'Roboto', sans-serif; */
 
 
 /* logo-2 */
-
-.logo-2>a {
-    font-family: 'Raleway', sans-serif;
-    text-decoration: none;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 1.1;
-    letter-spacing: 0.03em;
-    color: #2196F3;
-}
 
 .address>p {
     font-family: 'Roboto';
