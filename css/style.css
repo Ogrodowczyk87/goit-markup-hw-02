@@ -116,6 +116,7 @@ font-family: 'Roboto', sans-serif; */
     line-height: 1.8;
     letter-spacing: 0.06em;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 
@@ -128,7 +129,6 @@ font-family: 'Roboto', sans-serif; */
 
 .sc2-h3 {
     font-style: normal;
-    font-weight: 700;
     font-size: 14px;
     line-height: 1.1;
     letter-spacing: 0.03em;
@@ -168,7 +168,6 @@ font-family: 'Roboto', sans-serif; */
 
 .sc4-h3 {
     font-style: normal;
-    font-weight: 500;
     font-size: 16px;
     letter-spacing: 0.03em;
     color: #212121;
@@ -255,16 +254,15 @@ font-family: 'Roboto', sans-serif; */
 
 /* content-p */
 
-.content-p-l>li>h3 {
+.content-p-h3 {
     font-style: normal;
-    font-weight: 700;
     font-size: 18px;
     letter-spacing: 0.06em;
     color: #212121;
     line-height: 2;
 }
 
-.content-p-l>li>p {
+.content-p-p {
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
